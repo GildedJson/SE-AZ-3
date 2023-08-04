@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="32" failures="0" name="calculator.RunnerTest" time="0.008" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="13.0.2+8"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-13.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\gilde\Desktop\University\SoftEngAz\Az3"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\gilde\Desktop\University\SoftEngAz\Az3"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="13.0.2+8"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\gilde\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-13.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Rockwell Software\RSCommon;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Program Files (x86)\Python38-32\Scripts\;C:\Program Files (x86)\Python38-32\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-11.0.5\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gilde\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\dotnet\;C:\Users\gilde\AppData\Local\Microsoft\WindowsApps;C:\Users\gilde\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\PyCharm 2021.2.2\bin;;C:\Program Files (x86)\Nmap;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\bin;;C:\Users\gilde\AppData\Roaming\npm;C:\Programings\flutter_BUNDLEDELETE\bin;C:\Users\gilde\.gradle\wrapper\dists\gradle-7.2-all\260hg96vuh6ex27h9vo47iv4d\gradle-7.2\bin;;."/>
+    <property name="maven.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="57.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\gilde"/>
+    <property name="user.timezone" value="GMT+03:30"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="13"/>
+    <property name="user.name" value="gilde"/>
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
+    <property name="java.vm.specification.version" value="13"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2020.1.1 test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-13.0.2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="idea.version2020.1.1" value="true"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="13.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.1\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-01-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Scenario: add two numbers" name="Given Two input values, 1 and 2" time="0.003"/>
+  <testcase classname="Scenario: add two numbers" name="When I add the two values" time="0"/>
+  <testcase classname="Scenario: add two numbers" name="Then I expect the result 3" time="0"/>
+  <testcase classname="Scenario: add two numbers" name="Scenario: add two numbers" time="0"/>
+  <testcase classname="| 1 | 12 | 13 |" name="Given Two input values, 1 and 12" time="0"/>
+  <testcase classname="| 1 | 12 | 13 |" name="When I add the two values" time="0"/>
+  <testcase classname="| 1 | 12 | 13 |" name="Then I expect the result 13" time="0"/>
+  <testcase classname="| 1 | 12 | 13 |" name="| 1 | 12 | 13 |" time="0.001"/>
+  <testcase classname="| -1 | 6 | 5 |" name="Given Two input values, -1 and 6" time="0"/>
+  <testcase classname="| -1 | 6 | 5 |" name="When I add the two values" time="0"/>
+  <testcase classname="| -1 | 6 | 5 |" name="Then I expect the result 5" time="0"/>
+  <testcase classname="| -1 | 6 | 5 |" name="| -1 | 6 | 5 |" time="0.001"/>
+  <testcase classname="| 2 | 2 | 4 |" name="Given Two input values, 2 and 2" time="0"/>
+  <testcase classname="| 2 | 2 | 4 |" name="When I add the two values" time="0"/>
+  <testcase classname="| 2 | 2 | 4 |" name="Then I expect the result 4" time="0"/>
+  <testcase classname="| 2 | 2 | 4 |" name="| 2 | 2 | 4 |" time="0"/>
+  <testcase classname="Scenario: calculate with two numbers and sign" name="Given Two input values, 11 and 2, and a sign *" time="0"/>
+  <testcase classname="Scenario: calculate with two numbers and sign" name="When I calculate the equation" time="0"/>
+  <testcase classname="Scenario: calculate with two numbers and sign" name="Then I expect the result number 22" time="0"/>
+  <testcase classname="Scenario: calculate with two numbers and sign" name="Scenario: calculate with two numbers and sign" time="0"/>
+  <testcase classname="| 6 | 2 | * | 12 |" name="Given Two input values, 6 and 2, and a sign *" time="0"/>
+  <testcase classname="| 6 | 2 | * | 12 |" name="When I calculate the equation" time="0"/>
+  <testcase classname="| 6 | 2 | * | 12 |" name="Then I expect the result number 12" time="0"/>
+  <testcase classname="| 6 | 2 | * | 12 |" name="| 6 | 2 | * | 12 |" time="0.001"/>
+  <testcase classname="| 6 | 2 | / | 3 |" name="Given Two input values, 6 and 2, and a sign /" time="0"/>
+  <testcase classname="| 6 | 2 | / | 3 |" name="When I calculate the equation" time="0.001"/>
+  <testcase classname="| 6 | 2 | / | 3 |" name="Then I expect the result number 3" time="0"/>
+  <testcase classname="| 6 | 2 | / | 3 |" name="| 6 | 2 | / | 3 |" time="0.001"/>
+  <testcase classname="| 6 | 2 | ^ | 36 |" name="Given Two input values, 6 and 2, and a sign ^" time="0"/>
+  <testcase classname="| 6 | 2 | ^ | 36 |" name="When I calculate the equation" time="0"/>
+  <testcase classname="| 6 | 2 | ^ | 36 |" name="Then I expect the result number 36" time="0"/>
+  <testcase classname="| 6 | 2 | ^ | 36 |" name="| 6 | 2 | ^ | 36 |" time="0"/>
+</testsuite>
